@@ -17,3 +17,4 @@
 ### Использованные библиотеки:
 * pandas
 * plotly
+* matplotlib
